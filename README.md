@@ -12,13 +12,17 @@ Check out my portfolio: [emregunner.github.io/PersonalPortfolio](https://emregun
 <!-- Showcase your top projects here with brief descriptions and links -->
 
 ## Skills
-<!-- Add icons for your key skills -->
+Leveraging my expertise in AI and full-stack development, I create intelligent and intuitive web solutions.
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-black?style=flat-square&logo=tensorflow)
+
 <!-- Add more as per your skills -->
 
-## GitHub Stats
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emreGunner&show_icons=true&theme=radical)
 
 ## Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=emreGunner)
