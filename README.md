@@ -1,32 +1,37 @@
-### Hi there 👋
+# 👋 Hi, I'm Emre Gunner!
 
-<!--
-**EmreGunner/EmreGunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Full Stack Developer with a passion for creating elegant solutions in the least amount of time.  
+🚀 I love exploring new technologies and developing software solutions.  
+🌱 Currently diving deeper into React and Node.js.
 
-Here are some ideas to get you started:
+## My Work
+Check out my portfolio: [emregunner.github.io/PersonalPortfolio](https://emregunner.github.io/PersonalPortfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+## Projects
+<!-- Showcase your top projects here with brief descriptions and links -->
 
-- 🔭 I’m currently working on ...
+## Skills
+<!-- Add icons for your key skills -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<!-- Add more as per your skills -->
 
-- 👯 I’m looking to collaborate on ...
+## GitHub Stats
+![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emreGunner&show_icons=true&theme=radical)
 
-- - 💬 Ask me about ...
+## Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=emreGunner)
 
-- - 📫 How to reach me: ...
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+## Connect with Me
+<!-- Update with your social media links -->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emregunner/)](https://www.linkedin.com/in/emregunner/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/emregunner)](https://twitter.com/emregunner)
+<!-- Add more social links -->
+
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!-- This section can be updated automatically using GitHub Actions -->
+
