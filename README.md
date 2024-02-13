@@ -3,7 +3,7 @@
 ## About Me
 🎓 Full Stack Developer with a passion for creating elegant solutions in the least amount of time.  
 🚀 I love exploring new technologies and developing software solutions.  
-🌱 Currently diving deeper into React and Node.js.
+🌱 Currently diving deeper into Ai
 
 ## My Work
 Check out my portfolio: [emregunner.github.io/PersonalPortfolio](https://emregunner.github.io/PersonalPortfolio)
