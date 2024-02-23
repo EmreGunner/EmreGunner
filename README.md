@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emre Gunner!
 
 ## About Me
-🎓 Full Stack Developer with a passion for creating elegant solutions in the least amount of time.  
+🎓 Full Stack Developer currently working to use Ai more practically.
 🚀 I love exploring new technologies and developing software solutions.  
 🌱 Currently diving deeper into Ai
 
