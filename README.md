@@ -3,7 +3,7 @@
 ## About Me
 🎓 Full Stack Developer currently working to use Ai more practically.
 🚀 For the last 2 years i have developed / founded multiple tech startups.
-🌱 Currently diving deeper into Ai
+🌱
 
 ## My Work
 Check out my portfolio: [emregunner.github.io/PersonalPortfolio](https://emregunner.github.io/PersonalPortfolio)
