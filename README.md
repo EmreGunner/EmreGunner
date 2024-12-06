@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 Full Stack Developer currently working to use Ai more practically.
-🚀 For the last 2 years i have developed / founded multiple tech startups.
+🚀 For the last 3 years i have developed / founded multiple tech startups last 2 year being more Ai and marketing focused.
 🌱
 
 ## My Work
