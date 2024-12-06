@@ -12,7 +12,7 @@ Check out my portfolio: [emregunner.github.io/PersonalPortfolio](https://emregun
 <!-- Showcase your top projects here with brief descriptions and links -->
 
 ## Skills
-Leveraging my expertise in AI and full-stack development, I create intelligent and intuitive web solutions.
+Leveraging my expertise in AI and full-stack development, I create useful stuff.
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
