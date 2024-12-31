@@ -28,11 +28,7 @@ Leveraging my expertise in AI and full-stack development, I create useful stuff.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=emreGunner)
 
 ## Connect with Me
-<!-- Update with your social media links -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emregunner/)](https://www.linkedin.com/in/emregunner/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/emregunner)](https://twitter.com/emregunner)
-<!-- Add more social links -->
-
+https://www.linkedin.com/in/emre-onder-guner/
 ## Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
