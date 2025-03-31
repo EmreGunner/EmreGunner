@@ -2,8 +2,8 @@
 
 ## About Me
 🎓 Full Stack Marketer currently working to develop / integrate Ai more practically in marketing.
-🚀 For the last 3 years i have developed / founded multiple tech startups last 2 year being more Ai and marketing focused.
-🌱
+🚀 For the last 3 years i have developed / founded multiple tech startups one of them succesful exit with NDA. 
+
 
 ## Contact
 https://emregunner.carrd.co/
