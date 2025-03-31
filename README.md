@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Emre Gunner!
 
 ## About Me
-🎓 Full Stack Developer currently working to use Ai more practically.
+🎓 Full Stack Marketer currently working to develop / integrate Ai more practically in marketing.
 🚀 For the last 3 years i have developed / founded multiple tech startups last 2 year being more Ai and marketing focused.
 🌱
 
-## My Work
-Check out my portfolio: [emregunner.github.io/PersonalPortfolio](https://emregunner.github.io/PersonalPortfolio)
-
+## Contact
+https://emregunner.carrd.co/
 ## Projects
 <!-- Showcase your top projects here with brief descriptions and links -->
 
